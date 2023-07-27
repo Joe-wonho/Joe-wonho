@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=300&section=header&text=1Hoit's%20GitHub&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=51&descAlign=63.3)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25&height=300&section=header&text=1Hoit's%20GitHub&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=51&descAlign=63.3)
 
 ### <a href="https://velog.io/@whdnjsgh22" rel="noreferrer" target="_blank">🔗 Blog Link</a>
 
